@@ -1,6 +1,7 @@
 print("Hello World")
 
-def func():
-    print("My name is Raiyan")
+def func(name):
+    print("My name is "+name)
 
-func()
+name='Raiyan'
+func(name)
