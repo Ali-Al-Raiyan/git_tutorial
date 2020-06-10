@@ -5,3 +5,6 @@ def func(name):
 
 name='Raiyan'
 func(name)
+
+for i in range(0,6):
+    print(i)
